@@ -7,18 +7,10 @@
 
     <TextView android:text="@string/hello_world" android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/textView" /><![CDATA[
+        android:id="@+id/textView" />
 
-    RatingBar
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/ratingBar"
-        android:layout_above="@+id/button"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="35dp" />
 
-    ]]>
-
+<!--test 1111111-->
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
